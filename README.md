@@ -1,4 +1,4 @@
-# Short Summary
+# How to Help Contributors Contribute
 
 Potential contributors might have some questions about contributing.  Help them help you!
 
